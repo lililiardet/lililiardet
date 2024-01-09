@@ -13,7 +13,7 @@ I'm **Lili** a Software Engineer at **[Qraft](https://github.com/qrafttech)**
 <p >My stack</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,next,react,nodejs,express,rails&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,figma,tailwind,materialui,rails,nodejs,express,sentry,redis,postman,postgres,graphql,apollo,github,gitlab,githubactions&perline=6" />
   </a>
 
   <br>
