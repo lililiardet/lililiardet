@@ -10,6 +10,12 @@ I'm **Lili** a Software Engineer at **[Qraft](https://github.com/qrafttech)**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was a project manager in the luxury field before joining the force 💪🏻 💻
 <br/>
+
+> [!TIP]
+> "You cannot manage what you do not measure, you do not measure what you do not define, you do not define what you do not understand, and there is no success in what you do not manage." - **William Edwards Deming**
+
+<div>
+  <div style="display:flex;flex-direction: row">
 <p >My stack</p>
 
   <a href="https://skillicons.dev">
@@ -17,18 +23,19 @@ I'm **Lili** a Software Engineer at **[Qraft](https://github.com/qrafttech)**
   </a>
 
   <br>
-
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lililiardet&layout=compact)
-
-<div> My hobbies</div> 
+</div>
+<div>
+<div style=""> My hobbies</div> 
 <br/>
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white) 
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
-
+</div>
+</div>
 <!--
 **lililiardet/lililiardet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
